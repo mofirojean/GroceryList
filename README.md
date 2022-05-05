@@ -7,5 +7,7 @@ The project mimics the real world grocery list where the user are able to add an
 - Removing Items
 - Displaying a well formatted list of our items
 
+
 ## Contributors
 - @mofirojean
+- @kelly
